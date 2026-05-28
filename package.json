@@ -1,0 +1,26 @@
+{
+  "name": "@durgesh-s/create-react",
+  "version": "1.0.1",
+  "description": "Custom React Vite starter CLI",
+  "type": "module",
+  "bin": {
+    "create-react": "./bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "template"
+  ],
+  "keywords": [
+    "react",
+    "vite",
+    "tailwind",
+    "cli",
+    "starter"
+  ],
+  "author": "Durgesh",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0"
+  }
+}
