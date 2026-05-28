@@ -1,0 +1,39 @@
+🚀 I built and published my own React CLI on npm!
+
+I always wanted a faster way to start my React projects with my preferred setup already configured. So I created my own custom CLI package:
+
+👉 @durgesh-s/create-react
+
+Now I can scaffold a modern React app in seconds with React, Vite, Tailwind CSS, React Router DOM, React Icons, Axios, and a clean scalable folder structure.
+
+Create a new project with:
+
+npx @durgesh-s/create-react my-app
+
+What’s included:
+✅ React + Vite setup
+✅ Tailwind CSS configured
+✅ React Router DOM
+✅ React Icons
+✅ Axios
+✅ Clean folder structure
+✅ Ready-to-build starter UI
+
+Default folder structure includes:
+
+assets
+components
+utils
+pages
+styles
+services
+hooks
+routes
+
+This was a really good learning experience for understanding how npm CLI packages work, how npx commands run, how package publishing works, and how to create reusable project starters.
+
+Small step, but a big confidence boost as a developer. 🙌
+
+Try it and let me know your feedback!
+
+#ReactJS #Vite #TailwindCSS #JavaScript #npm #CLI #FrontendDevelopment #WebDevelopment #ReactDeveloper #OpenSource #DeveloperTools
